@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    background: linear-gradient(20px);
+    color:white;
+    text-align: center;
+    background: linear-gradient(90deg, #DE3163, #1F305E);
+
+}
+
+img{
+    
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+
+
+ }
+
+ .meme{
+        position: relative;
+        padding-top: 100px;
+ }
+
+ .meme h1{
+ 
+    margin: 0;
+    padding: 0;
+    color: yellow;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+ }
