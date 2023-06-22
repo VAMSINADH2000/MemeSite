@@ -20,4 +20,4 @@ This is a Flask web application that generates random memes using the Reddit API
 
 1. Clone the repository:
    ```shell
-   git clone 
+   git clone https://github.com/VAMSINADH2000/MemeSite.git
